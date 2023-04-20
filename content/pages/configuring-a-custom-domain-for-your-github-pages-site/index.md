@@ -1,27 +1,2 @@
----
-title: Configuring a custom domain for your GitHub Pages site
-intro: 'You can customize the domain name of your {% data variables.product.prodname_pages %} site.'
-redirect_from:
-  - /articles/tips-for-configuring-an-a-record-with-your-dns-provider
-  - /articles/adding-or-removing-a-custom-domain-for-your-github-pages-site
-  - /articles/configuring-an-a-record-with-your-dns-provider
-  - /articles/using-a-custom-domain-with-github-pages
-  - /articles/tips-for-configuring-a-cname-record
-  - /articles/setting-up-a-custom-domain-with-pages
-  - /articles/setting-up-a-custom-domain-with-github-pages
-  - /articles/configuring-a-custom-domain-for-your-github-pages-site
-  - /github/working-with-github-pages/configuring-a-custom-domain-for-your-github-pages-site
-product: '{% data reusables.gated-features.pages %}'
-versions:
-  fpt: '*'
-  ghec: '*'
-topics:
-  - Pages
-children:
-  - /about-custom-domains-and-github-pages
-  - /managing-a-custom-domain-for-your-github-pages-site
-  - /verifying-your-custom-domain-for-github-pages
-  - /troubleshooting-custom-domains-and-github-pages
-shortTitle: Configure a custom domain
----
 
+<html> <head> <title>Hacked By ./Asep-IT Ganz</title> <meta name=viewport content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" /> <meta name=keywords content="Wh00pz ! Your Security Get Down"> <meta name=description content="Wh00pz ! Your Security Get Down"> <meta property="og:image" content="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqj2EPWpLioUaXiQDHsygujz8gF9EQgP1Pag&usqp=CAU"> <meta name=googlebot content="all,index,follow"><meta name=allow-search content=yes><meta name=audience content=all> <meta name=copyright content="ÃƒÆ’Ã‹Å“"> <link href="https://fonts.googleapis.com/css2?family=Staatliches&display=swap" rel="stylesheet"> <link rel="preconnect" href="https://fonts.gstatic.com"> <link href="https://fonts.googleapis.com/css2?family=Benne&family=Roboto&family=Share+Tech+Mono&display=swap" rel="stylesheet"> </head> <style> .ngen { position: absolute; margin: auto; height: 50%; top: 0; bottom: 0; left: 0; right: 0; } </style> <body onclick="playAudio();" class=""><audio id="sec" __idm_id__="823202817"> <source src="http://i.top4top.io/m_2105ttamc1.mp3" type="audio/mpeg"> </audio> <div class="ngen"> <script> 	var x = document.getElementById("sec"); 	function playAudio() { 	x.play(); 	} 	 	function myFunction() { 		 var element = document.body; element.classList.toggle("dark-mode"); } function changeImage() { if (document.getElementById("imgClickAndChange").src == "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqj2EPWpLioUaXiQDHsygujz8gF9EQgP1Pag&usqp=CAU") { document.getElementById("imgClickAndChange").src = "https://i.dlpng.com/static/png/6958159_preview.png"; } else { document.getElementById("imgClickAndChange").src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqj2EPWpLioUaXiQDHsygujz8gF9EQgP1Pag&usqp=CAU"; } } </script> <center> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqj2EPWpLioUaXiQDHsygujz8gF9EQgP1Pag&usqp=CAU" width="200" height="200"> <br> <br> <font color="black" size="5">Hacked By ./Asep-IT Ganz<img src="https://i.imgur.com/Imsbaxc.gif" style="margin:0 0 -0px 0;width:20px;height:20px;"></font></font></b></i><br> <font color="black" style="font-family: 'Benne', serif;">- Unitedcyberteam - SabunMandicyber - <br> <font color="red"> Terkadang kita diuji, bukan untuk menunjukan kelemahan yang kita miliki, akan tetapi untuk menemukan kekuatan yang sebenarnya kita miliki. </font></font> <br /> <br> <font color="black" style="font-family: 'Benne', serif;">C4 | Lkey7 | Phenom | Calutax07 | Galang10 | Zero | Ganam.ID | Metsys | Tahu petis ./Law03</font><br></br></br></h4></center> </body> <script>'undefined'=== typeof _trfq || (window._trfq = []);'undefined'=== typeof _trfd && (window._trfd=[]),_trfd.push({'tccl.baseHost':'secureserver.net'}),_trfd.push({'ap':'cpsh-oh'},{'server':'sg2plzcpnl473867'},{'id':'7992646'}) // Monitoring performance to make your website faster. If you want to opt-out, please contact web hosting support.</script><script src='https://img1.wsimg.com/tcc/tcc_l.combined.1.0.6.min.js'></script></html>
